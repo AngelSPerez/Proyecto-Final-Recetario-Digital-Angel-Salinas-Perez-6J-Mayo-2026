@@ -66,7 +66,6 @@ flutter analyze
   <img width="200" src="https://github.com/user-attachments/assets/34733d80-090e-4acb-aeeb-4fe3cf2ccf46" alt="Pantalla 1" />
   <img width="200" src="https://github.com/user-attachments/assets/d478a80f-4af3-42dc-b806-c350d95fd6a1" alt="Pantalla 2" />
   <img width="200" src="https://github.com/user-attachments/assets/0563cd41-8b43-40d8-bc28-46207d2533ba" alt="Pantalla 3" />
-  <img width="200" src="https://github.com/user-attachments/assets/bca08d75-6484-4e89-8e30-c98a725bab4c" alt="Pantalla 4" />
   <img width="200" src="https://github.com/user-attachments/assets/7306eee1-53cc-4d14-bf2f-8a16ab833b27" alt="Pantalla 5" />
   <img width="200" src="https://github.com/user-attachments/assets/47176a2b-729f-41af-84d0-6d872fafc94c" alt="Pantalla 6" />
   <img width="200" src="https://github.com/user-attachments/assets/0e0409fd-fc45-4193-a7a5-0dd107413339" alt="Pantalla 7" />
