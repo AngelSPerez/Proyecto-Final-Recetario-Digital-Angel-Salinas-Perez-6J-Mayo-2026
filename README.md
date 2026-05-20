@@ -1,64 +1,101 @@
-# RecipeRecive
+<div align="center">
+  <h1>RecipeRecive 📖</h1>
+  <p><strong>Libro de recetas digital para cocina casera</strong></p>
 
-## Para esta aplicacion se uso Firebase, Flutter, Claude AI, VS Code y OpenCode AI
+  <p>
+    <a href="https://appetize.io/app/b_4wtoyyeu6oa4wgxlrdbali35xe">▶️ Probar sin instalar</a>
+    ·
+    <a href="https://github.com/AngelSPerez/PROYECTO-FINAL-FLUTTER/releases/download/v1.0/RecipeRecive.apk">📦 Descargar APK</a>
+  </p>
 
-> Tiempo de desarollo: 2 dias aproximadamente.
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-3.0%2B-02569B?logo=flutter" alt="Flutter">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase" alt="Firebase">
+    <img src="https://img.shields.io/badge/Material%203-9C27B0?logo=materialdesign" alt="Material 3">
+    <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+  </p>
+</div>
 
-Libro de recetas digital para cocina casera.
+---
 
-**PROBAR AHORA (Sin instalar)** https://appetize.io/app/b_4wtoyyeu6oa4wgxlrdbali35xe
+## ✨ Funcionalidades
 
-**DESCARGAR APK** https://github.com/AngelSPerez/PROYECTO-FINAL-FLUTTER/releases/download/v1.0/RecipeRecive.apk
+- **Autenticación** — Registro, inicio de sesión y recuperación de contraseña.
+- **Explorar recetas** — Lista y cuadrícula con chips de categorías para filtrar.
+- **Favoritos y guardados** — Marca recetas como "Me gusta" o "Guardar" para acceder rápido.
+- **Valoraciones y comentarios** — Califica con estrellas y deja comentarios en cada receta.
+- **Perfil de usuario** — Consulta tus recetas guardadas, gustadas, comentarios y valoraciones.
+- **Panel de administración** — Los administradores pueden crear, editar y eliminar recetas con imágenes.
+- **Modo oscuro** — Alterna entre tema claro, oscuro o sigue la configuración del sistema.
+- **Idiomas** — Disponible en español, inglés y portugués.
 
-## Admin
+## 🛠️ Tecnologías
 
-- **Correo:** `admin@reciperecive.com`
-- **Contraseña:** `Admin123!`
+| | |
+|---|---|
+| **Framework** | Flutter con Material 3 |
+| **Backend** | Firebase Auth, Firestore y Storage |
+| **Persistencia local** | SharedPreferences |
+| **Fuente** | Roboto |
 
-## Requisitos
-
-- Flutter >=3.0.0
-- Firebase project configurado
-
-## Comandos
+## 🚀 Cómo empezar
 
 ```bash
+# Instalar dependencias
 flutter pub get
+
+# Ejecutar en dispositivo/emulador
 flutter run
+
+# Análisis estático
 flutter analyze
 ```
 
-## Stack
+> **Nota:** Necesitas un proyecto de Firebase configurado con los archivos `google-services.json` (Android) y `GoogleService-Info.plist` (iOS).
 
-- Flutter + Material 3
-- Firebase Auth + Firestore + Storage
-- SharedPreferences
+## 🔐 Acceso de administrador
 
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-59-42-426_com example recipe_recive" src="https://github.com/user-attachments/assets/34733d80-090e-4acb-aeeb-4fe3cf2ccf46" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-59-40-783_com example recipe_recive" src="https://github.com/user-attachments/assets/d478a80f-4af3-42dc-b806-c350d95fd6a1" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-59-39-171_com example recipe_recive" src="https://github.com/user-attachments/assets/0563cd41-8b43-40d8-bc28-46207d2533ba" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-59-37-604_com example recipe_recive" src="https://github.com/user-attachments/assets/bca08d75-6484-4e89-8e30-c98a725bab4c" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-59-36-056_com example recipe_recive" src="https://github.com/user-attachments/assets/7306eee1-53cc-4d14-bf2f-8a16ab833b27" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-59-34-130_com example recipe_recive" src="https://github.com/user-attachments/assets/47176a2b-729f-41af-84d0-6d872fafc94c" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-59-29-745_com example recipe_recive" src="https://github.com/user-attachments/assets/0e0409fd-fc45-4193-a7a5-0dd107413339" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-59-24-023_com example recipe_recive" src="https://github.com/user-attachments/assets/59067cad-b55d-405e-ac55-b3123e3ab6da" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-59-19-307_com example recipe_recive" src="https://github.com/user-attachments/assets/7f4c65a9-6ccc-4429-b138-4fbeb608efe8" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-59-17-318_com example recipe_recive" src="https://github.com/user-attachments/assets/a0926496-58dd-45fe-925b-bf9ca449d9bb" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-59-15-123_com example recipe_recive" src="https://github.com/user-attachments/assets/08513a89-3e23-4bb5-9b40-3d2c269235c8" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-59-03-763_com example recipe_recive" src="https://github.com/user-attachments/assets/9c83dbd1-db9a-463c-a701-8589a4df2dfb" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-59-00-148_com example recipe_recive" src="https://github.com/user-attachments/assets/9195b52e-620a-4579-b729-494dc3f17e1b" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-58-57-248_com example recipe_recive" src="https://github.com/user-attachments/assets/d6b9750e-19e2-4cf4-a2a7-80117870db8c" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-58-52-536_com example recipe_recive" src="https://github.com/user-attachments/assets/db394db0-bad4-4d42-9fee-2a3ee5e6aa7f" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-58-45-943_com example recipe_recive" src="https://github.com/user-attachments/assets/4e77e8eb-27e4-4e75-9db3-68e156ce9db2" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-56-29-189_com example recipe_recive" src="https://github.com/user-attachments/assets/7b62b8bc-377c-4822-85e0-fed74a018e10" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-56-24-651_com example recipe_recive" src="https://github.com/user-attachments/assets/4ff48ad0-eab7-40c5-953b-2abe3d03971b" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-56-21-330_com example recipe_recive" src="https://github.com/user-attachments/assets/2d0e06a3-5a24-4c52-9c32-a2db2f55dc87" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-56-13-345_com example recipe_recive" src="https://github.com/user-attachments/assets/88fddca3-b82a-4481-932c-d5f9941ff0d1" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-10-56-09-029_com example recipe_recive" src="https://github.com/user-attachments/assets/bacfa059-1166-4a93-a250-c96f9deb21a4" />
-<img width="720" height="1600" alt="Screenshot_2026-05-20-09-36-21-024_com android settings" src="https://github.com/user-attachments/assets/ea8215ef-aca2-4dd5-81f9-c4f9924d06e4" />
+| Campo | Valor |
+|---|---|
+| **Correo** | `admin@reciperecive.com` |
+| **Contraseña** | `Admin123!` |
 
-# Prueba GitHub Imagenes
+## 📸 Capturas de pantalla
 
-<img width="985" height="523" alt="image" src="https://github.com/user-attachments/assets/0ab56f2c-5af8-4917-a543-c68f3f0f143b" />
+<div align="center">
+  <img width="200" src="https://github.com/user-attachments/assets/34733d80-090e-4acb-aeeb-4fe3cf2ccf46" alt="Pantalla 1" />
+  <img width="200" src="https://github.com/user-attachments/assets/d478a80f-4af3-42dc-b806-c350d95fd6a1" alt="Pantalla 2" />
+  <img width="200" src="https://github.com/user-attachments/assets/0563cd41-8b43-40d8-bc28-46207d2533ba" alt="Pantalla 3" />
+  <img width="200" src="https://github.com/user-attachments/assets/bca08d75-6484-4e89-8e30-c98a725bab4c" alt="Pantalla 4" />
+  <img width="200" src="https://github.com/user-attachments/assets/7306eee1-53cc-4d14-bf2f-8a16ab833b27" alt="Pantalla 5" />
+  <img width="200" src="https://github.com/user-attachments/assets/47176a2b-729f-41af-84d0-6d872fafc94c" alt="Pantalla 6" />
+  <img width="200" src="https://github.com/user-attachments/assets/0e0409fd-fc45-4193-a7a5-0dd107413339" alt="Pantalla 7" />
+  <img width="200" src="https://github.com/user-attachments/assets/59067cad-b55d-405e-ac55-b3123e3ab6da" alt="Pantalla 8" />
+  <img width="200" src="https://github.com/user-attachments/assets/7f4c65a9-6ccc-4429-b138-4fbeb608efe8" alt="Pantalla 9" />
+  <img width="200" src="https://github.com/user-attachments/assets/a0926496-58dd-45fe-925b-bf9ca449d9bb" alt="Pantalla 10" />
+  <img width="200" src="https://github.com/user-attachments/assets/08513a89-3e23-4bb5-9b40-3d2c269235c8" alt="Pantalla 11" />
+  <img width="200" src="https://github.com/user-attachments/assets/9c83dbd1-db9a-463c-a701-8589a4df2dfb" alt="Pantalla 12" />
+  <img width="200" src="https://github.com/user-attachments/assets/9195b52e-620a-4579-b729-494dc3f17e1b" alt="Pantalla 13" />
+  <img width="200" src="https://github.com/user-attachments/assets/d6b9750e-19e2-4cf4-a2a7-80117870db8c" alt="Pantalla 14" />
+  <img width="200" src="https://github.com/user-attachments/assets/db394db0-bad4-4d42-9fee-2a3ee5e6aa7f" alt="Pantalla 15" />
+  <img width="200" src="https://github.com/user-attachments/assets/4e77e8eb-27e4-4e75-9db3-68e156ce9db2" alt="Pantalla 16" />
+  <img width="200" src="https://github.com/user-attachments/assets/7b62b8bc-377c-4822-85e0-fed74a018e10" alt="Pantalla 17" />
+  <img width="200" src="https://github.com/user-attachments/assets/4ff48ad0-eab7-40c5-953b-2abe3d03971b" alt="Pantalla 18" />
+  <img width="200" src="https://github.com/user-attachments/assets/2d0e06a3-5a24-4c52-9c32-a2db2f55dc87" alt="Pantalla 19" />
+  <img width="200" src="https://github.com/user-attachments/assets/88fddca3-b82a-4481-932c-d5f9941ff0d1" alt="Pantalla 20" />
+  <img width="200" src="https://github.com/user-attachments/assets/bacfa059-1166-4a93-a250-c96f9deb21a4" alt="Pantalla 21" />
+</div>
 
-en imagenes.md de este repositorio estan las imagenes utilizadas.
+## Infografias
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/9a0b3f93-d788-4a5d-8e5b-048698c443df" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7682c7e6-7237-4794-bc16-711eff4e627d" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1df7560b-4fac-4a42-a1c4-6de6826fcda2" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/07024b0a-0417-43d0-a5e1-23b8abd6a074" />
+
+
+---
+
+<div align="center">
+  <h3>Desarrollado con ❤️ usando Flutter, Firebase y OpenCode AI</h3>
+</div>
