@@ -57,3 +57,8 @@ flutter analyze
 <img width="720" height="1600" alt="Screenshot_2026-05-20-10-56-09-029_com example recipe_recive" src="https://github.com/user-attachments/assets/bacfa059-1166-4a93-a250-c96f9deb21a4" />
 <img width="720" height="1600" alt="Screenshot_2026-05-20-09-36-21-024_com android settings" src="https://github.com/user-attachments/assets/ea8215ef-aca2-4dd5-81f9-c4f9924d06e4" />
 
+# Prueba GitHub Imagenes
+
+<img width="985" height="523" alt="image" src="https://github.com/user-attachments/assets/0ab56f2c-5af8-4917-a543-c68f3f0f143b" />
+
+en imagenes.md de este repositorio estan las imagenes utilizadas.
