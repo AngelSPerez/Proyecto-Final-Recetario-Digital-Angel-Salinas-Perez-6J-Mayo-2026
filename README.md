@@ -96,5 +96,5 @@ flutter analyze
 ---
 
 <div align="center">
-  <h3>Desarrollado con ❤️ usando Flutter, Firebase y OpenCode AI</h3>
+  <h3>Desarrollado con ❤️ usando Flutter, Firebase, Claude y OpenCode AI</h3>
 </div>
