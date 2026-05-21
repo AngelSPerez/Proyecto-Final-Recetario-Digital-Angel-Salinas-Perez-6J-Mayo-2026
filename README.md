@@ -60,6 +60,13 @@ flutter analyze
 | **Correo** | `admin@reciperecive.com` |
 | **Contraseña** | `Admin123!` |
 
+## 🔍 Imagenes desde la red (GITHUB)
+
+> **Nota:** Todas las imagenes se encuentran en "<a href="https://github.com/AngelSPerez/Proyecto-Final-Recetario-Digital-Angel-Salinas-Perez-6J-Mayo-2026/blob/main/imagenes.md">imagenes.md</a>"
+
+<img width="1535" height="442" alt="image" src="https://github.com/user-attachments/assets/453cfedf-64f2-44f2-90dd-9e7371993ab8" />
+
+
 ## 📸 Capturas de pantalla
 
 <div align="center">
