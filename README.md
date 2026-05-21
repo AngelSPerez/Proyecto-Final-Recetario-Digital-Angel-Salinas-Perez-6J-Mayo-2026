@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>RecipeRecive 📖</h1>
-  <p><strong>Libro de recetas digital para cocina casera</strong></p>
+  <h1>🍽️ RecipeRecive 🍽️</h1>
+  <p><strong>Recetario Digital</strong></p>
 
   <p>
-    <a href="https://appetize.io/app/b_4wtoyyeu6oa4wgxlrdbali35xe">▶️ Probar sin instalar</a>
+    <h3><a href="https://appetize.io/app/b_4wtoyyeu6oa4wgxlrdbali35xe">▶️ Probar sin instalar</a></h3>
     ·
-    <a href="https://github.com/AngelSPerez/PROYECTO-FINAL-FLUTTER/releases/download/v1.0/RecipeRecive.apk">📦 Descargar APK</a>
+    <h3><a href="https://github.com/AngelSPerez/PROYECTO-FINAL-FLUTTER/releases/download/v1.0/RecipeRecive.apk">📦 Descargar APK</a></h3>
   </p>
 
   <p>
